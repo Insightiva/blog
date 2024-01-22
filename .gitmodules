@@ -1,0 +1,7 @@
+[submodule "insightiva-blog/themes/mainroad"]
+	path = insightiva-blog/themes/mainroad
+	url = https://github.com/vimux/mainroad.git
+[submodule "insightiva-blog/public"]
+	path = insightiva-blog/public
+	url = https://github.com/Insightiva/insightiva.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://insightiva.github.io/'
+languageCode = 'en-us'
+title = 'Insightiva Global'
+theme = "mainroad"
